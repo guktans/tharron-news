@@ -1,6 +1,11 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-22-26
+- Pet buff bags added. You can purchase these at the  Mysterious Merchant in Guild Lobby.
+- Fixed buff bonuses dropping when logging and zoning
+- Players now earn AA xp for free when leveling. This is bonus xp added to your AA xp pool with no detriment to leveling XP.
+
 ## Patch 05-21-26
 - All classes should have access to their respective skills at appropriate levels now regardless of multiclass selections
 - Multiclass AA abilities are now split into separate spell types which allows for separate timers
