@@ -1,6 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-23-26
+- Added Glowing Shard of Power item. This item may be turned in with an appropriate piece of gear or a bag to improve it. Shardwright Veylan in the Guild Lobby will have more information.
+- Completed a pass on Defense/Offense to improve the awareness of class mechanics when multiclassing. Overall effect should be a noticeble uptick in survivability and damage output now that classes use the best of the class mix skills/bonuses.
+- Debuffs now fall off after combat if the player remains out of combat for 5 or more seconds.
+- Fixed a bug where Feign Death was not appearing in the Class AA window for monk multiclass characters.
+- NPCs should no longer instantly aggro a player when they enter into combat range while a pet is tanking.
+
 ## Patch 05-22-26
 - Pet buff bags added. You can purchase these at the  Mysterious Merchant in Guild Lobby.
 - Fixed buff bonuses dropping when logging and zoning
