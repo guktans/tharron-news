@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-25-26
+- Private DZ Instances (Expeditions) are now available in most dungeon zones. More to follow.
+- Port NPCs are available in the guild lobby now. Port to expedition feature is available for purchase at the Expedition Quartemaster.
+- Adjusted rare npc spawn rate floor. They should be slightly less rare now.
+- Upgrading equipment now makes it magic. Show those undead who's the boss.
+- Upgrading equipment with strength stats now awards a bonus stat in line with other stats.
+- Pets debuffs should now also drop when out of combat similar to players.
+
 ## Patch 05-23-26
 - Added Glowing Shard of Power item. This item may be turned in with an appropriate piece of gear or a bag to improve it. Shardwright Veylan in the Guild Lobby will have more information.
 - Completed a pass on Defense/Offense to improve the awareness of class mechanics when multiclassing. Overall effect should be a noticeble uptick in survivability and damage output now that classes use the best of the class mix skills/bonuses.
