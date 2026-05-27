@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-27-26
+- Rabid Bear, Divine Avatar, Doppelganger and Host of the Elements have received cooldown reduction and cast time reduction to instant.
+- Cast times of player detrimental and beneficial spells have been normalized. This should make them much more viable and exciting to use in combat.
+- Rare spawns have been given a spawn chance floor. You should see them more often now.
+- Spell NPCs are available in the Guild Lobby now.
+- Fixed Zoneline issues in lavastorm for soltemple and najena.
+- Work on the content progression system has begun.
+
 ## Patch 05-25-26
 - Private DZ Instances (Expeditions) are now available in most dungeon zones. More to follow.
 - Port NPCs are available in the guild lobby now. Port to expedition feature is available for purchase at the Expedition Quartemaster.
