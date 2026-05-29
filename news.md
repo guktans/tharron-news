@@ -1,6 +1,21 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-29-26
+- Max resists for mobs have been reduced. Players should almost always be able to land at least partial hits with spells.
+- Players should be able to remove any class from their three class choices now.
+- Fast regeneration is now mostly active even while standing. Sitting will still offer a slight advantage, but you can always regenerate when out of combat now.
+- Race restrictions have been removed from items
+- Doppelganger has been significantly improved and should offer Enchanter a dps burst cooldown similar to other classes.
+- Duration on charm has been increased significantly. Charmed targets still have the ability to break out of mez early however, so watch yourself!
+- The progression system has been added to the game! Players are required to complete expansions in order. Visit Aurelian Stoneward in the guild lobby for more information.
+- A number of utility AAs have had their available ranks increased.
+- Buffs are removed on death now. There are consequences to your actions!
+- Fixed a bug which could cause upgraded Augments to cause items to disappear when slotted into augment slots.
+- AC bonuses for class mixes with MAG/ENC/WIZ/NEC now apply to all mixes with those classes in them, not just primaries. This should improve most compositions baseline survivability.
+- Boon of the Garou has received some updates and improvements.
+
+
 ## Patch 05-27-26
 - Rabid Bear, Divine Avatar, Doppelganger and Host of the Elements have received cooldown reduction and cast time reduction to instant.
 - Cast times of player detrimental and beneficial spells have been normalized. This should make them much more viable and exciting to use in combat.
