@@ -1,6 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-30-26
+- Feign death abilities acquired through AA have had their reuse times adjusted reduced.
+- Charmed pets should now lose their equipped items and buffs when charm breaks and auto equip items when charmed.
+- Max stun time on players is now capped at 2 seconds.
+- Pets should also regen when out of combat now.
+- Several AAs have had their spell reuse timers split so that they can be used concurrently.
+
 ## Patch 05-29-26
 - Max resists for mobs have been reduced. Players should almost always be able to land at least partial hits with spells.
 - Players should be able to remove any class from their three class choices now.
@@ -14,7 +21,6 @@ Welcome to Tharron! Here are the latest changes:
 - Fixed a bug which could cause upgraded Augments to cause items to disappear when slotted into augment slots.
 - AC bonuses for class mixes with MAG/ENC/WIZ/NEC now apply to all mixes with those classes in them, not just primaries. This should improve most compositions baseline survivability.
 - Boon of the Garou has received some updates and improvements.
-
 
 ## Patch 05-27-26
 - Rabid Bear, Divine Avatar, Doppelganger and Host of the Elements have received cooldown reduction and cast time reduction to instant.
