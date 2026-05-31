@@ -1,6 +1,18 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 05-31-26
+- Druids have received a new temp pet spell line, Beckon Wilderness. Spell vendors in the guild lobby will offer these new spell scrolls.
+- Druids are now elligible for pet related AAs.
+- Difficulty tuning pass was made on Naggy and fearplane.
+- Added group difficulty tuning. Zones will be slightly more difficulty when playing with friends to keep things interesting.
+- Bag sizes will now correctly scale with upgrades and also include weight reduction.
+- Players and pets are no longer valid targets for dispel mechanics.
+- Charmed pets no longer receive the same damage bonus/reduction mechanics provided by server tuning. This should reduce their effectiveness to sane levels.
+- Charmed pets should be more consistent in removing buffs/equipped gear when they break charm. There is still a chance they retain them when a player dies while they are charmed.
+- Max stun duration on a player is capped at 2 seconds now.
+- Pets gained the ability to also regen when out of combat, including charmed pets.
+
 ## Patch 05-30-26
 - Feign death abilities acquired through AA have had their reuse times adjusted reduced.
 - Charmed pets should now lose their equipped items and buffs when charm breaks and auto equip items when charmed.
