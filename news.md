@@ -1,6 +1,16 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-01-26
+- Shamans have been given a new lower level version of their Apathy line at level 44 called Melancholy.
+- Boon Wardern will now also buff player pets at the same time
+- Rogue backstab now works with all slashing and piercing weapons, both 1h and 2h.
+- All (hopefully) pathways for clickables and consumables should now be multiclass aware
+- All focus effect pathways should be multiclass aware.
+- Fixed a bug that would cause duplicate upgraded items at the shardwright to vanish. The duplicate item should be handed back to the player unupgraded now.
+- Gift of mana should now be multiclass aware and work from level 1.
+- Adjusted druid beckon wilderness line to summon 3 wolves at once but use a 15 second cooldown.
+
 ## Patch 05-31-26
 - Druids have received a new temp pet spell line, Beckon Wilderness. Spell vendors in the guild lobby will offer these new spell scrolls.
 - Druids are now elligible for pet related AAs.
