@@ -1,6 +1,19 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-02-26
+- Implemented actual non-respawning raid expeditions.
+- Fixed issues with player/pet immunity to fear/char/mez not working as intended
+- Fixed issue with item links not working
+- Clerics recieve a new low level version of Shining Rampart at level 44 called "Glowing Rampart".
+- Bards receive a new low level version of Song of the Storm Strike at level 44 called Song of the Squall.
+- Fixed an issue which caused raw damage values to appear on death blows.
+- Tuning pass made on all end game bosses
+- Known issue: max mana may report incorrect values in the client when switching gear.
+- Known issue: rogue poisons are doing way more damage right now that what makes sense to allow.
+- Known issue: teleport locations are often incorrect
+- Upcoming Feature: Ritualism! Mobs will have a very small chance to spawn a planar spirit when they die. Attempt to vanquish this being if you dare!
+
 ## Patch 06-01-26
 - Shamans have been given a new lower level version of their Apathy line at level 44 called Melancholy.
 - Boon Wardern will now also buff player pets at the same time
