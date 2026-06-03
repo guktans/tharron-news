@@ -2,14 +2,17 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-03-26
+- Berserker's Frenzy now guarantees at least 1 successful hit and that hit gains a bonus hit for a  percentage of the Berserkers missing health as an unresistable non-melee strike.
 - Reduced damage on Plane of Hate 2.0 mobs to sane levels
 - Reduced damage on Plane of Sky mobs to sane levels
 - Fixed rogue poison damage calculation power levels to not be IT'S OVER 9000!
 - Added Chattering Bones AA to SK
+- Added Mortal Coil AA to SK
 - Reduced recast time on Wizard AA Call of Xuzl to 2 minutes
 - Shaman and Enchanter pets have been buffed
 - All DoT spell cast times are capped at 1 second
 - SK Scream of Death buff has been buffed
+- SK Only lifetap Life Leech (level 47) has been buffed
 - Monks now recieve a bonus damage event for hand 2 hand attacks based on spell gem 1 and special attacks on spell gem 2.
 
 ## Patch 06-02-26
