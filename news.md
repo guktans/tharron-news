@@ -1,6 +1,17 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-03-26
+- Reduced damage on Plane of Hate 2.0 mobs to sane levels
+- Reduced damage on Plane of Sky mobs to sane levels
+- Fixed rogue poison damage calculation power levels to not be IT'S OVER 9000!
+- Added Chattering Bones AA to SK
+- Reduced recast time on Wizard AA Call of Xuzl to 2 minutes
+- Shaman and Enchanter pets have been buffed
+- All DoT spell cast times are capped at 1 second
+- SK Scream of Death buff has been buffed
+- Monks now recieve a bonus damage event for hand 2 hand attacks based on spell gem 1 and special attacks on spell gem 2.
+
 ## Patch 06-02-26
 - Implemented actual non-respawning raid expeditions.
 - Fixed issues with player/pet immunity to fear/char/mez not working as intended
