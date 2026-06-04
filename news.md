@@ -1,6 +1,17 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-04-26
+### Berserker Rework
+* Gains new Disc. Shrug it Off at level 20, this absorbs some incoming damage and banks it in an accumulating rune, allowing future attacks to be further absorbed. Damage done by the Berserker is also accumulated into the rune effect.
+* Gains new Disc. Ignore Pain at level 25, this consumes the Shrug it Off rune and converts it into an instant heal. 15 second cooldown, consumes and requires a percentage of the Berserker's available max Endurance to use.
+* Frenzy reworked. Frenzy now always guarantees at least 1 successful hit. Additionally, each use of frenzy guarantees an additional unresistable hit equal to a percentage of the Berserker's current missing health.
+### Misc changes
+- Wake the Dead cooldown reduced to 2 minutes, in line with other classes swarm pet AAs
+- Warrior's gain the Blade Guardian AA
+- Harm Touch ranks reduced to max of 4 until level 54. More ranks gained every 2 levels thereafter.
+- Fixed a bug that could result in characters with ghost AA ranks after dropping a class which shared a similar line of AAs with the replacement class which would prevent ranks from being purchased.
+
 ## Patch 06-03-26
 - Berserker's Frenzy now guarantees at least 1 successful hit and that hit gains a bonus hit for a  percentage of the Berserkers missing health as an unresistable non-melee strike.
 - Reduced damage on Plane of Hate 2.0 mobs to sane levels
