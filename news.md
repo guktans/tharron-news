@@ -1,6 +1,20 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-05-26
+### Rogue Rework
+- Gains new Disc. line Garrote, starting at level 10. This is short term damage over time that causes a large amount of damage.
+- Gains new Disc. Blind at level 15. This short term duration ability allows the rogue to disable (mez) enemies for 18 seconds. 20 second cooldown.
+
+## Necromancer Rework
+- Gains new AA "Contagion" which spreads your damage over time spells on the current target to all enemies within 50 units.
+
+## Misc. Changes
+- No trade items are now heirloom and may be traded to other characters on your account using the shared bank slots.
+- Bard instruments may be worn in the ranged slot.
+- Era progression rewards will now actually be awarded.
+- Damage over time spells have received a damage increase.
+
 ## Patch 06-04-26
 ### Berserker Rework
 * Gains new Disc. Shrug it Off at level 20, this absorbs some incoming damage and banks it in an accumulating rune, allowing future attacks to be further absorbed. Damage done by the Berserker is also accumulated into the rune effect.
