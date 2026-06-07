@@ -1,6 +1,19 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-07-26
+### Monk Rework
+- Adjusted the bonus percentages monk gains from spell gem 1 and spell gem 2 to increase overall dps
+- Reduced cooldown of feign death to 15 seconds.
+- Gains new Disc. Technique: Zen, an accumulating rune fueled by incoming melee damage, absorbs a percentage of incoming damage when fueled.
+- Gains new Disc. Techique: Counter, expend the zen rune in the form of a single target melee attack.
+### Berserker balance changes
+- Adjusted the levels at which Blur of Axes are available to Berseker to make dps increase more linear and in line with the eras they are available in.
+- Reduced Ignore Pain healing anount
+- Reduced damage gain awared to Frenzy's bonus unresistable hit
+### Client updates
+- Fixed display issues with spell levels and disciplines in various areas throughout the game
+
 ## Patch 06-06-26
 ### Warrior Rework
 - Warrior gains a new Disc. Mortal Strike. Reduces the healing effectiveness on the target.
