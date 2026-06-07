@@ -1,6 +1,19 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-06-26
+### Mage Rework
+- Gains access to the Force of Elements AA line at a reduced damage to make it in line with the current eras. The AA also now has the ability to stun enemies. 20 second cooldown.
+- Gains access to a new lower level version of the Hulking Bodyguard line of defensive spells called "Massive Bodyguard". This spell line is a buff that procs a defensive short term pet when struck in melee combat.
+### Necromancer Rework
+- Gains new AA Soul Link. A portion of the damage the necromancer takes is shared with summoned pets. This is capable of killing your pet if you take too much damage so be careful!
+- Gains new AA Siphon Life. This AA channels a portion of the necromancers damage over time spell damage into a short term rune.
+## Misc. Changes
+- Damage over time damage has been boosted.
+## Upcoming changes
+- Warrior to receive a 'Mortal Strike' ability which reduces healing effectiveness.
+- Cleric rework planning underway. Cleric will receive a boost to its healing effectiveness and utility.
+
 ## Patch 06-05-26
 ### Rogue Rework
 - Gains new Disc. line Garrote, starting at level 10. This is short term damage over time that causes a large amount of damage.
