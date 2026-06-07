@@ -2,6 +2,8 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-06-26
+### Warrior Rework
+- Warrior gains a new Disc. Mortal Strike. Reduces the healing effectiveness on the target.
 ### Mage Rework
 - Gains access to the Force of Elements AA line at a reduced damage to make it in line with the current eras. The AA also now has the ability to stun enemies. 20 second cooldown.
 - Gains access to a new lower level version of the Hulking Bodyguard line of defensive spells called "Massive Bodyguard". This spell line is a buff that procs a defensive short term pet when struck in melee combat.
@@ -11,7 +13,6 @@ Welcome to Tharron! Here are the latest changes:
 ## Misc. Changes
 - Damage over time damage has been boosted.
 ## Upcoming changes
-- Warrior to receive a 'Mortal Strike' ability which reduces healing effectiveness.
 - Cleric rework planning underway. Cleric will receive a boost to its healing effectiveness and utility.
 
 ## Patch 06-05-26
