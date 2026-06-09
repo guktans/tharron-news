@@ -23,9 +23,9 @@ Welcome to Tharron! Here are the latest changes:
 ### Necromancer Rework
 - Gains new AA Soul Link. A portion of the damage the necromancer takes is shared with summoned pets. This is capable of killing your pet if you take too much damage so be careful!
 - Gains new AA Siphon Life. This AA channels a portion of the necromancers damage over time spell damage into a short term rune.
-## Misc. Changes
+### Misc. Changes
 - Damage over time damage has been boosted.
-## Upcoming changes
+### Upcoming changes
 - Cleric rework planning underway. Cleric will receive a boost to its healing effectiveness and utility.
 
 ## Patch 06-05-26
@@ -33,10 +33,10 @@ Welcome to Tharron! Here are the latest changes:
 - Gains new Disc. line Garrote, starting at level 10. This is short term damage over time that causes a large amount of damage.
 - Gains new Disc. Blind at level 15. This short term duration ability allows the rogue to disable (mez) enemies for 18 seconds. 20 second cooldown.
 
-## Necromancer Rework
+### Necromancer Rework
 - Gains new AA "Contagion" which spreads your damage over time spells on the current target to all enemies within 50 units.
 
-## Misc. Changes
+### Misc. Changes
 - No trade items are now heirloom and may be traded to other characters on your account using the shared bank slots.
 - Bard instruments may be worn in the ranged slot.
 - Era progression rewards will now actually be awarded.
