@@ -1,6 +1,15 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-10-26
+### Ranger Rework
+- Gains new Disc. Quick Shots, the ranger fires a series of shots in quick succession, these shots are not aimed as precisely as other shots and do not deal as much damage but may be fired on the move. 6 second cooldown and requires a percentage of max mana to fire.
+- Gains new Disc. Aimed Shot, the ranger fires a carefully aimed arrow dealing massive damage and snaring the target. 12 second cooldown and can only be fired while standing still. Requires a percentage of max mana to fire.
+### Shadowknight Rework
+- Gains new Disc. Dread Blade. Channel your hatred into a single dread blow that cannot miss and always inflicts a critical hit, rending your foe for unresistable weapon damage, siphoning a portion of the wound into your own flesh, and fouling their aim. 
+### Pet changes
+- Pets now assist their owner automatically when the owner engages in combat.
+
 ## Patch 06-07-26
 ### Monk Rework
 - Adjusted the bonus percentages monk gains from spell gem 1 and spell gem 2 to increase overall dps
