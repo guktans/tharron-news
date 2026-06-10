@@ -1,6 +1,17 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-10-26/2
+### Paladin Rework
+- Gains Disc. Holy Shock. This spell based discipline attack strike the target for unresistable spell damage and also heals the targets target. The damage and healing scale with the Paladin's level. 12 second cooldown.
+- Gains Aura of Devotion. Reduces incoming melee damage by 10%.
+- Gains Aura of Faith. Reduces inccoming spell damage by 10%.
+- Gains Aura of Zeal. Heals the Paladin and those affected by the aura for a percent of their max health every tick.
+- Gains Reckoning and Reckoning Strike Disciplines. Reckoning is a buff which accumulates charges when the paladin strikes enemies in melee combat. Reckoning Strike unleashes the Reckoning charges to deal unresistable spell damage to the target.
+### Misc. Changes
+- Pet behavior when assisting improved again. Should now mirror the behavior of Temporary/Swarm pets, engaging targets automatically and continuing to engage targets throughout combat unless on hold/greater hold.
+- Cosmetic changes for several spells and abilities.
+
 ## Patch 06-10-26
 ### Ranger Rework
 - Gains new Disc. Quick Shots, the ranger fires a series of shots in quick succession, these shots are not aimed as precisely as other shots and do not deal as much damage but may be fired on the move. 6 second cooldown and requires a percentage of max mana to fire.
