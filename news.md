@@ -9,6 +9,8 @@ Welcome to Tharron! Here are the latest changes:
 - Gains new Disc. Dread Blade. Channel your hatred into a single dread blow that cannot miss and always inflicts a critical hit, rending your foe for unresistable weapon damage, siphoning a portion of the wound into your own flesh, and fouling their aim. 
 ### Pet changes
 - Pets now assist their owner automatically when the owner engages in combat.
+### Misc. changes
+- Ranged ammo items may now also be upgraded at the Shardwright.
 
 ## Patch 06-07-26
 ### Monk Rework
