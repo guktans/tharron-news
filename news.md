@@ -1,6 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-12-26
+### Ornamentations
+- A new vendor has arrived in the Guild Lobby, the Curator! Visit the Curator to create the ornamentations from your favorite appearances.
+### Misc. Changes
+- A new Welcome screen has been added to the game to provide new players with tips about getting started.
+- Fixed a bug that prevented 'best-of' mana calculations. Your highest caster stat (int or wis) should now be calculated and used for your character allowing you to choose which stat you want to lean into.
+
 ## Patch 06-10-26/2
 ### Paladin Rework
 - Gains Disc. Holy Shock. This spell based discipline attack strike the target for unresistable spell damage and also heals the targets target. The damage and healing scale with the Paladin's level. 12 second cooldown.
