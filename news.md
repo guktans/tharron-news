@@ -5,8 +5,11 @@ Welcome to Tharron! Here are the latest changes:
 ### Ornamentations
 - A new vendor has arrived in the Guild Lobby, the Curator! Visit the Curator to create the ornamentations from your favorite appearances.
 ### Misc. Changes
+- The Mysterious Merchant is now also capable of handling your parcels!
 - A new Welcome screen has been added to the game to provide new players with tips about getting started.
 - Fixed a bug that prevented 'best-of' mana calculations. Your highest caster stat (int or wis) should now be calculated and used for your character allowing you to choose which stat you want to lean into.
+- The merchant window will correctly scale the content of the final item column to fit the rest of the window size.
+- The merchant window level column is now multiclass aware and will display all classes and levels that can use a spell scroll.
 
 ## Patch 06-10-26/2
 ### Paladin Rework
