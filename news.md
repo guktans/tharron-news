@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-13-26
+### Warrior Rework
+- Gains new Disc. Cleave. Swing your weapons in a wild arc around you, attempting to strike all enemies within melee range (line of sight required). Learnable at level 30. 10 Second cooldown, requires 8% endurance to use.
+### Rogue Rework
+- The Hide AA now functions differently for Rogue. When used by a character with Rogue in their class mix, the character is also hidden from Undead. If the character also has the Shroud of Steatlh AA this ability will grant them improved invis, hiding them from creatures that would normally see through invis. This replaces the sneak/hide mechanic Rogue would traditionally rely upon.
+### Misc. Changes
+- Shardwright Velyan is now also capable of removing item upgrades from an item, returning the original unupgraded item to you for use in quests. A Planar Purifier is required to accomplish this and may be purchased from the Mysterious Merchant.
+
 ## Patch 06-12-26
 ### Ornamentations
 - A new vendor has arrived in the Guild Lobby, the Curator! Visit the Curator to create the ornamentations from your favorite appearances.
