@@ -8,6 +8,8 @@ Welcome to Tharron! Here are the latest changes:
 - The Hide AA now functions differently for Rogue. When used by a character with Rogue in their class mix, the character is also hidden from Undead. If the character also has the Shroud of Steatlh AA this ability will grant them improved invis, hiding them from creatures that would normally see through invis. This replaces the sneak/hide mechanic Rogue would traditionally rely upon.
 ### Misc. Changes
 - Shardwright Velyan is now also capable of removing item upgrades from an item, returning the original unupgraded item to you for use in quests. A Planar Purifier is required to accomplish this and may be purchased from the Mysterious Merchant.
+- Ranged attacks now gain bonuses similar to melee attacks from Double Attack and Triple Attack skills and AAs.
+- Duplicate AA lines have been deduped. Your class mix now determines 'best-of' for the AA lines you will have access to.
 
 ## Patch 06-12-26
 ### Ornamentations
