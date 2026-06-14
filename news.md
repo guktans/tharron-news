@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-14-26
+### Misc. Changes
+- Multiclass AA attacks (kick, flying kick, backstab etc) should now all recieve benefits from other AA lines.
+- Buffs that provided invulnerability no longer result in permanent invulnerability. Whoops!
+- 2h Bash AA removed. Turns out this was a stub and not implemented in the codebase. If you wield a 2H weapon or a shield bash will always work for you.
+### In progress
+- Fixing lavastorm zone version.
+
 ## Patch 06-13-26
 ### Warrior Rework
 - Gains new Disc. Cleave. Swing your weapons in a wild arc around you, attempting to strike all enemies within melee range (line of sight required). Learnable at level 30. 10 Second cooldown, requires 8% endurance to use.
