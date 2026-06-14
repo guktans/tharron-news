@@ -6,8 +6,9 @@ Welcome to Tharron! Here are the latest changes:
 - Multiclass AA attacks (kick, flying kick, backstab etc) should now all recieve benefits from other AA lines.
 - Buffs that provided invulnerability no longer result in permanent invulnerability. Whoops!
 - 2h Bash AA removed. Turns out this was a stub and not implemented in the codebase. If you wield a 2H weapon or a shield bash will always work for you.
-### In progress
-- Fixing lavastorm zone version.
+- Classic Lavastorm has been fully restored.
+- Zone server cap increase to 100 to support more concurrent players.
+- Quests should now be multiclass aware and also not eat items when a quest condition fails.
 
 ## Patch 06-13-26
 ### Warrior Rework
