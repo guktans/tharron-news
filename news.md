@@ -5,6 +5,7 @@ Welcome to Tharron! Here are the latest changes:
 ### Wizard Rework
 - Gains new Disc. Chronomancy. This grants a buff that triggers a stacking spell haste short term buff which lasts 6 seconds, renewed on each direct damage spell cast. The short term effect reduces the cast time of direct damage spells.
 ### Misc. Changes
+- Alchemy and Poison making containers should be multiclass aware now.
 - The denizens of Karnors Castle have increased in power. It is rumored that the creatures have been seen wielding more powerful items as well.
 - The bard song line Cassindra's buff duration has been made permanent.
 
