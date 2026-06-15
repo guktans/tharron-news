@@ -1,6 +1,10 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-15-26
+### Misc. Changes
+- The denizens of Karnors Castle have increased in power. It is rumored that the creatures have been seen wielding more powerful items as well.
+
 ## Patch 06-14-26
 ### Misc. Changes
 - Multiclass AA attacks (kick, flying kick, backstab etc) should now all recieve benefits from other AA lines.
