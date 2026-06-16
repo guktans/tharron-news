@@ -1,6 +1,10 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-16-26
+### Misc. Changes
+- Client updated to unblock tradeskill containers. Server is not the authoritative source of truth for tradeskill combines.
+
 ## Patch 06-15-26
 ### Wizard Rework
 - Gains new Disc. Chronomancy. This grants a buff that triggers a stacking spell haste short term buff which lasts 6 seconds, renewed on each direct damage spell cast. The short term effect reduces the cast time of direct damage spells.
