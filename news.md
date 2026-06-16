@@ -3,7 +3,7 @@ Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-16-26
 ### Misc. Changes
-- Client updated to unblock tradeskill containers. Server is not the authoritative source of truth for tradeskill combines.
+- Client updated to unblock tradeskill containers for multiclass. Server is now the authoritative source of truth for tradeskill combines.
 
 ## Patch 06-15-26
 ### Wizard Rework
