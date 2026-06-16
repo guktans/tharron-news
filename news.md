@@ -2,8 +2,14 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-16-26
+### Nightmare Difficulty
+- A new difficulty level for instances has had its supporting infrastructure added. These instances will be available from the Planar Conduit in most dungeons (eventually). They will offer a significantly more challenging experience and reward a unique item upon completion. This is still in testing so look for more information to follow on which dungeons have had Nightmare Difficulty added.
+### Wizard Rework
+- Chronomancy will now return a portion of the mana spent during the Chronomancy Effect once it wears off.
 ### Misc. Changes
 - Client updated to unblock tradeskill containers for multiclass. Server is now the authoritative source of truth for tradeskill combines.
+- Each race now has a unique beastlord warder appearance.
+- Most zones in Kunark have had a Planar Conduit NPC added to them. These can usually be found near zone lines.
 
 ## Patch 06-15-26
 ### Wizard Rework
