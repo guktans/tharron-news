@@ -5,6 +5,9 @@ Welcome to Tharron! Here are the latest changes:
 ### Misc. Changes
 - Fixed a bug where npcs could potentially roll no loot and vanish upon death.
 - Added accuracy floor for different color cons giving npcs a better chance of hitting you. Isn't that fun!
+- Berserker disc. War Cry is now permanent duration.
+- Expanded the number of available endurance timers from 19 to 128. There may still be collisions for non-custom disciplines. Please log them as bugs and I'll review them.
+- Hasten Death AA causing timer on Imitate Death to bug out should be resolved.
 
 ## Patch 06-17-26
 ### Misc. Changes
