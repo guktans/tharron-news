@@ -4,8 +4,8 @@ Welcome to Tharron! Here are the latest changes:
 ## Patch 06-18-26
 ### Shadowknight Rework
 - Gains new Disc. Aura of Hatred, damages nearby enemies and heals the Shadowknight for a percentage of their max health.
-- Gains new Disc. Aura of Misery, enemies which damage the Shadowknight in melee combat are rended by a malevolent force in retribution, causing them damage equal to a percentage of the Shadowknight's max health.
-- Gains new Disc. Aura of Decay, the meer presence of a Shadowknight reduces the will of their enemies, causing them to be more susceptible to disease and poison based attacks.
+- Gains new Disc. Aura of Misery, enemies which damage the Shadowknight in melee combat are rended by a malevolent force in retribution, reducing the effectiveness of their armor and causing them damage equal to a percentage of the Shadowknight's max health.
+- Gains new Disc. Aura of Decay, the meer presence of a Shadowknight reduces the will of their enemies, causing them to be more susceptible to disease and poison based attacks while also increasing the Shadowknight and his allies attack rating.
 
 ### Misc. Changes
 - Fixed a bug where npcs could potentially roll no loot and vanish upon death.
