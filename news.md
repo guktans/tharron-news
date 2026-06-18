@@ -1,6 +1,11 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-18-26
+### Misc. Changes
+- Fixed a bug where npcs could potentially roll no loot and vanish upon death.
+- Added accuracy floor for different color cons giving npcs a better chance of hitting you. Isn't that fun!
+
 ## Patch 06-17-26
 ### Misc. Changes
 - Difficulty of Unrest, SolA and SolB have been adjusted. These zones should be a bit more challenging now.
