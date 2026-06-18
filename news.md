@@ -1,12 +1,24 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-17-26
+### Misc. Changes
+- Difficulty of Unrest, SolA and SolB have been adjusted. These zones should be a bit more challenging now.
+- The goblin union has finished their collective bargaining and returned to work in the Mines of Nurga.
+- The Enchanted buff bag is now even more enchanted.
+- The Curator of Appearances now offers players the option to change their race in exchange for your soul or 25 glowing shards.
+- Players now have access to both Classic and Kunark starting out. You must complete both Classic and Kunark progression to move on to Velious and you will be capped at level 51 until completing Classic Era.
+- Key of Veeshan now also grants access to Veeshan's Peak.
+- AA timer collisions should now hopefully be resolved, or not, who knows.
+
 ## Patch 06-16-26
 ### Nightmare Difficulty
 - A new difficulty level for instances has had its supporting infrastructure added. These instances will be available from the Planar Conduit in most dungeons (eventually). They will offer a significantly more challenging experience and reward a unique item upon completion. This is still in testing so look for more information to follow on which dungeons have had Nightmare Difficulty added.
 ### Wizard Rework
 - Chronomancy will now return a portion of the mana spent during the Chronomancy Effect once it wears off.
 ### Misc. Changes
+- Fixed flattened spell levels on Cleric Frenzied Renewal and Magician Bodyguard spell lines.
+- Tracking is now multiclass aware server-side.
 - Client updated to unblock tradeskill containers for multiclass. Server is now the authoritative source of truth for tradeskill combines.
 - Each race now has a unique beastlord warder appearance.
 - Most zones in Kunark have had a Planar Conduit NPC added to them. These can usually be found near zone lines.
