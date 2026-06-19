@@ -6,7 +6,7 @@ Welcome to Tharron! Here are the latest changes:
 - Contagion AA Removed, replaced with Contagion Disc. and now casts any damage over time spells in your first three gem slots at once. 1 second cast time.
 - Gains new Disc. Spread Contagion, spreads your damage over time spells to nearby targets. Replaces previous Contagion AA.
 ### Misc. Changes
-- Monks now utilize a new damage/delay bonuses table for all races. Large races attack for more damage but slow, vah shir and iksar slightly faster and slight more damage, normal size races are unchanged, small races attack faster but do slightly less damage.
+- Monks now utilize a new damage/delay bonuses table for all races. Large races attack for more damage but slower, vah shir and iksar slightly faster and slightly more damage, normal size races are unchanged, small races attack faster but do slightly less damage.
 - Players being summoned is now included in the cooldown for negative effects. Players should no longer be summoned over and over in a short window of time and should no longer be summoned while within melee range of a creature that can summon.
 - Fixed a bug in PEQ that could cause temporary pets damage to become negative values.
 - Fixed a display bug in Shadowknight's Aura of Decay that prevented the ATK buff from displaying.
