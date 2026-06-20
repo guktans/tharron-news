@@ -1,6 +1,16 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-20-26
+### Bard Reword
+- Gains new Disc. Encore, replays the last detrimental or beneficial spell cast for instantly and for free.
+- Gains New Disc. Improvisation, casts the bard song aug slotted into a ranged bard instruments type 3 aug slot for free instantly.
+- New Bard related NPC, Songsmith. Will convert any bard song spell scroll into an Etched Score allowing it to be slotted into a bard instruments type 3 aug slot for use with the Improvisation discipline.
+### Rogue Rework
+- Gains new Disc. Smoke Bomb, unresistable blind that affects all enemies within 75 units of the Rogue causing them to miss all melee attacks and be silenced.
+### Misc. Changes
+- Disciplines with cooldowns greater than 15 minutes have been reduced to 15 minutes.
+
 ## Patch 06-19-26
 ### Necromancer Rework
 - Contagion AA Removed, replaced with Contagion Disc. and now casts any damage over time spells in your first three gem slots at once. 1 second cast time.
