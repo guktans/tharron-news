@@ -2,7 +2,7 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-20-26
-### Bard Reword
+### Bard Rework
 - Gains new Disc. Encore, replays the last detrimental or beneficial spell cast for instantly and for free.
 - Gains New Disc. Improvisation, casts the bard song aug slotted into a ranged bard instruments type 3 aug slot for free instantly.
 - New Bard related NPC, Songsmith. Will convert any bard song spell scroll into an Etched Score allowing it to be slotted into a bard instruments type 3 aug slot for use with the Improvisation discipline.
