@@ -6,6 +6,9 @@ Welcome to Tharron! Here are the latest changes:
 - Contagion AA Removed, replaced with Contagion Disc. and now casts any damage over time spells in your first three gem slots at once. 1 second cast time.
 - Gains new Disc. Spread Contagion, spreads your damage over time spells to nearby targets. Replaces previous Contagion AA.
 ### Misc. Changes
+- Wake the Dead is now instant cast and it's related Graverobbing AA will no longer cause it's recast timer to break.
+- Mystical Attuning AA now grants twice as many buff slots per rank.
+- Fixed a bug that could cause nightmare instances to spin up an instance that had previously been completed by another player.
 - Monks now utilize a new damage/delay bonuses table for all races. Large races attack for more damage but slower, vah shir and iksar slightly faster and slightly more damage, normal size races are unchanged, small races attack faster but do slightly less damage.
 - Players being summoned is now included in the cooldown for negative effects. Players should no longer be summoned over and over in a short window of time and should no longer be summoned while within melee range of a creature that can summon.
 - Fixed a bug in PEQ that could cause temporary pets damage to become negative values.
