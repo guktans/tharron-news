@@ -10,6 +10,12 @@ Welcome to Tharron! Here are the latest changes:
 - Gains new Disc. Smoke Bomb, unresistable blind that affects all enemies within 75 units of the Rogue causing them to miss all melee attacks and be silenced.
 ### Misc. Changes
 - Disciplines with cooldowns greater than 15 minutes have been reduced to 15 minutes.
+- Shardwright Veylan has given up his life of crime and will no longer steal all the items from inside bags handed to him for upgrade.
+- NPCs will no longer resist unresistable spells. Probably.
+- Disciplines are no longer permanent unless they are designed to be. The fact that noone brought this to my attention is concerning.
+- Frogloks in sebilis have begun to panic as their doors no longer lock. Please don't murder them and steal their items. Just kidding, go for it.
+- The adds that spawn during the Innoruuk event should no longer commit war crimes on your lifeless corpse as your spirit contemplates why it ever attempted to kill a god.
+- Era progression is now account wide (rewards are per character)! You still won't get a kunark reward though. Why? Because it doesn't exist yet!
 
 ## Patch 06-19-26
 ### Necromancer Rework
