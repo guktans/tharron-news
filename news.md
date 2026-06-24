@@ -1,6 +1,15 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-24-26
+### Misc. Changes
+- Spirits of Nature AA line for Druid has been fixed and will now spawn it's swarm pets.
+- The Warrens and Stonebrunt Mountains have been moved to Classic Era.
+- Boon Warden will now award the previous Eras buff if there is no set of buffs for the players current Era unlock.
+- Monk Epic Hand to Hand ratio increases with Epic upgrades. All other epics will be made upgradable in a future patch.
+- Shadowknight Auras should now only affect enemies that are actually in line of sight and in combat with the Shadowknight.
+- Patcher will now deliver classic hateplane client files.
+
 ## Patch 06-20-26
 ### Bard Rework
 - Gains new Disc. Encore, replays the last detrimental or beneficial spell cast for instantly and for free.
