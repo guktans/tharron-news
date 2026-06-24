@@ -9,6 +9,7 @@ Welcome to Tharron! Here are the latest changes:
 - Monk Epic Hand to Hand ratio increases with Epic upgrades. All other epics will be made upgradable in a future patch.
 - Shadowknight Auras should now only affect enemies that are actually in line of sight and in combat with the Shadowknight.
 - Patcher will now deliver classic hateplane client files.
+- Encore, Improvisation and Smoke Bomb have had their timers moved to the new custom range of discipline timers to avoid collision with stock timers.
 
 ## Patch 06-20-26
 ### Bard Rework
