@@ -10,6 +10,7 @@ Welcome to Tharron! Here are the latest changes:
 - Shadowknight Auras should now only affect enemies that are actually in line of sight and in combat with the Shadowknight.
 - Patcher will now deliver classic hateplane client files.
 - Encore, Improvisation and Smoke Bomb have had their timers moved to the new custom range of discipline timers to avoid collision with stock timers.
+- Fixed a bug in the Buff Bag that would prevent a song or spell from casting if the duration field was not set. All buffs should cast from the bag now.
 
 ## Patch 06-20-26
 ### Bard Rework
