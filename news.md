@@ -1,7 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
-## Patch 06-24-26
+## Patch 06-24-26i
+### Shaman Rework
+- A new vendor has arrived to the Guild Lobby that offers a new Alchemical Potion Belt, Alchemical Cauldron, and alchemical components.
+- New custom potions have been added to the game which can may only be crafted in the Alchemical Cauldron.
+- Gains new disc. Throw Potion. This discipline will throw the potion slotted into the first slot of the Alchemical Potion Belt.
+- Gains new disc. Drink Potion. This discipline will consume a potion slotted into the second slot of the Alchemical Potion Belt.
+
 ### Misc. Changes
 - Spirits of Nature AA line for Druid has been fixed and will now spawn it's swarm pets.
 - The Warrens and Stonebrunt Mountains have been moved to Classic Era.
@@ -11,6 +17,7 @@ Welcome to Tharron! Here are the latest changes:
 - Patcher will now deliver classic hateplane client files.
 - Encore, Improvisation and Smoke Bomb have had their timers moved to the new custom range of discipline timers to avoid collision with stock timers.
 - Fixed a bug in the Buff Bag that would prevent a song or spell from casting if the duration field was not set. All buffs should cast from the bag now.
+- Pet buff bag should now properly equip pet weapons that have a mixture of Primary and Primary/Secondary restrictions. The first found item that is can go into slot Primary will be equipped in the pet's Primary weapon slot and any other weapon marked with a Secondary flag will be placed in the secondary slot. Pet's now also have their damage/delay ratios modified by the weapons they wield.
 
 ## Patch 06-20-26
 ### Bard Rework
