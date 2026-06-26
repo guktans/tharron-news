@@ -5,6 +5,10 @@ Welcome to Tharron! Here are the latest changes:
 ### Client Changes
 - Epic weapons should now be capable of having augments placed into augment slots.
 ### Misc. Changes
+- Magician Epic no longer has charges and cast time has been reduced.
+- Multiclass Hide should now work with hide related disciplines.
+- Mourning Mist bow now has the intended range.
+- The Ring of Fear event should now properly reset after 8 minutes of being idle.
 - Doppelganger proc rates have been fixed. Previously it was possible that weapon procs could be 'crowded out' by other proc sources. Doppelgangers now prioritize weapon procs first over other proc sources. They also now use the same proc rate path as players instead of the flat 3% that they previously used.
 - A new shaman potion has been added to the game. Alchemical Potion of Gigantism! This is a secret recipe potion which must be discovered through experimentation.
 - The Mysterious Merchant now offers a new container type intended for use in your bank. This is a very large and very heavy container. Expect this to be very pricey!
