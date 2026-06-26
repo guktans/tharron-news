@@ -2,6 +2,8 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-26-26
+### Client Changes
+- Epic weapons should now be capable of having augments placed into augment slots.
 ### Misc. Changes
 - Doppelganger proc rates have been fixed. Previously it was possible that weapon procs could be 'crowded out' by other proc sources. Doppelgangers now prioritize weapon procs first over other proc sources. They also now use the same proc rate path as players instead of the flat 3% that they previously used.
 - A new shaman potion has been added to the game. Alchemical Potion of Gigantism! This is a secret recipe potion which must be discovered through experimentation.
