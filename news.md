@@ -2,9 +2,13 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-26-26
+### Ranger Rework
+- Aimed shot damage is now calculated the same as other attacks, granting it increased damage from ATK, crits and the ability to activate weapon procs.
 ### Client Changes
 - Epic weapons should now be capable of having augments placed into augment slots.
 ### Misc. Changes
+- When a discipline based ability is interrupted it will now refund the cost of the ability.
+- Rampage will now only affect enemies in LOS of the player. 
 - Magician Epic no longer has charges and cast time has been reduced.
 - Multiclass Hide should now work with hide related disciplines.
 - Mourning Mist bow now has the intended range.
