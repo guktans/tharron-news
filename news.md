@@ -1,10 +1,16 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-26-26
+### Misc. Changes
+- Doppelganger proc rates have been fixed. Previously it was possible that weapon procs could be 'crowded out' by other proc sources. Doppelgangers now prioritize weapon procs first over other proc sources. They also now use the same proc rate path as players instead of the flat 3% that they previously used.
+- A new shaman potion has been added to the game. Alchemical Potion of Gigantism! This is a secret recipe potion which must be discovered through experimentation.
+- The Mysterious Merchant now offers a new container type intended for use in your bank. This is a very large and very heavy container. Expect this to be very pricey!
+
 ## Patch 06-25-26
 ### Misc. Changes
 - Ring of Fear event in Cazic Thule should reset now on a wipe.
-- Magic Epic "Orb of Mastery" now summons a level 58 pet instead of 50 and increases in level by 1 per tier upgrade. Stats of the pet also increase per tier for a total bonus of 15% by tier 5.
+- Magician Epic "Orb of Mastery" now summons a level 58 pet instead of 50 and increases in level by 1 per tier upgrade. Stats of the pet also increase per tier for a total bonus of 15% by tier 5.
 
 ## Patch 06-24-26
 ### Shaman Rework
