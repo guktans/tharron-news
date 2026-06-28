@@ -3,7 +3,8 @@ Welcome to Tharron! Here are the latest changes:
 
 ## Patch 06-28-26
 ### Donation System
-- A new NPC has arrived in the Guild Lobby. Donation Vault! Items that you donate to this NPC are placed for sale on the bazaar. Players may purchase these items at a 50% discount from what a vendor would sell them to a player for. Turning in an item for donation rewards the player with 1 Glowing Shard per item. You may donate as many items as you like, however only a single copy of any item may be donated at any time. If you donate an item you will not be able to repurchase the item so only donate that which no longer have a need for!
+- A new NPC has arrived in the Guild Lobby. Donation Vault! Items that you donate to this NPC are placed for sale on the bazaar. Players may purchase these items at a 50% discount from what a vendor would sell them to a player for. Turning in an item for donation rewards the player with 1 Glowing Shard per item. You may donate as many items as you like, however only a single copy of any item may be donated at any time and you will only receive a reward for the first 10 items that you donate within a 24 hour period. If you donate an item you will not be able to repurchase the item so only donate that which no longer have a need for. Additionally, if you purchase an item, you will not be able to redonate that item for 3 days.
+
 ### Misc. Changes
 - Fixed an issue that prevented Headshot and Assassinate from triggering their killing blows correctly.
 - Fixed an issue that caused Multiclass Hide to drop before triggering abilities that required being stealth to activate.
