@@ -1,6 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-28-26
+### Donation System
+- A new NPC has arrived in the Guild Lobby. Donation Vault! Items that you donate to this NPC are placed for sale on the bazaar. Players may purchase these items at a 50% discount from what a vendor would sell them to a player for. Turning in an item for donation rewards the player with 1 Glowing Shard per item. You may donate as many items as you like, however only a single copy of any item may be donated at any time. If you donate an item you will not be able to repurchase the item so only donate that which no longer have a need for!
+### Misc. Changes
+- Fixed an issue that prevented Headshot and Assassinate from triggering their killing blows correctly.
+- Fixed an issue that caused Multiclass Hide to drop before triggering abilities that required being stealth to activate.
+
 ## Patch 06-26-26
 ### Ranger Rework
 - Aimed shot damage is now calculated the same as other attacks, granting it increased damage from ATK, crits and the ability to activate weapon procs.
