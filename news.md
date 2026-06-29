@@ -5,6 +5,8 @@ Welcome to Tharron! Here are the latest changes:
 ### Necromancer Rework
 - Contagion will now cast the first three damage over time spells it finds on your spell bar instead of the first three gems.
 ### Misc. Changes
+- Due to the removal of revamped zone items Kunark dragons have had their stats adjusted to accomodate the reduced player stats.
+- Locked doors in Karnors and Charasis (Howling Stones) have been mysteriously unlocked.
 - Glowing Pet Bag removed. All players with a pet class should now be using the Shimmering Pet Bag. The upgraded versions of the Shimmering Pet bag will be removed at the end of this week. Please migrate to the base Shimmering Pet Bag before this time.
 - Shadowknight's Dread Blade and Aura of Hatred now correctly gain benefits from Theft of Life and Soul Abrasion.
 - Gather Mana, Mana Draw and Hastened Gathering AA lines have been adjusted to work correctly with each other.
