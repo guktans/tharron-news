@@ -5,6 +5,10 @@ Welcome to Tharron! Here are the latest changes:
 ### Necromancer Rework
 - Contagion will now cast the first three damage over time spells it finds on your spell bar instead of the first three gems.
 ### Misc. Changes
+- Glowing Pet Bag removed. All players with a pet class should now be using the Shimmering Pet Bag. The upgraded versions of the Shimmering Pet bag will be removed at the end of this week. Please migrate to the base Shimmering Pet Bag before this time.
+- Shadowknight's Dread Blade and Aura of Hatred now correctly gain benefits from Theft of Life and Soul Abrasion.
+- Gather Mana, Mana Draw and Hastened Gathering AA lines have been adjusted to work correctly with each other.
+- Rage of Rallos Zek (Warrior) AA Line has been fixed and is now available to Warrior's starting at level 45.
 - Multiclass Hide should now be permanent for characters with a rogue in their class mix. This should resolve the issues with Sneak Attack.
 - Cast times of Lifetap spells for player classes should now be capped at 1.5 seconds.
 
