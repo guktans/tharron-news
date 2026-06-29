@@ -1,6 +1,13 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-29-26
+### Necromancer Rework
+- Contagion will now cast the first three damage over time spells it finds on your spell bar instead of the first three gems.
+### Misc. Changes
+- Multiclass Hide should now be permanent for characters with a rogue in their class mix. This should resolve the issues with Sneak Attack.
+- Cast times of Lifetap spells for player classes should now be capped at 1.5 seconds.
+
 ## Patch 06-28-26
 ### Donation System
 - A new NPC has arrived in the Guild Lobby. Donation Vault! Items that you donate to this NPC are placed for sale on the bazaar. Players may purchase these items at a 50% discount from what a vendor would sell them to a player for. Turning in an item for donation rewards the player with 1 Glowing Shard per item. You may donate as many items as you like, however only a single copy of any item may be donated at any time and you will only receive a reward for the first 10 items that you donate within a 24 hour period. If you donate an item you will not be able to repurchase the item so only donate that which you no longer have a need for. Additionally, if you purchase an item, you will not be able to redonate that item for 3 days.
