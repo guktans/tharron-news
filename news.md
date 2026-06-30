@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 06-30-26
+### Wizard Rework
+- Chronomancy now also grants a spell rune when the effect ends.
+### Echanter Rework
+- Doppelganger AA swarm pets now correctly taunt and hold aggro. This provides a significant survivability boost to enchanter.
+### Misc. Changes
+- Fixed quests that were not multiclass aware. This should fix all epic quest stages that previously checked the characters primary quest.
+
 ## Patch 06-29-26
 ### Necromancer Rework
 - Contagion will now cast the first three damage over time spells it finds on your spell bar instead of the first three gems.
