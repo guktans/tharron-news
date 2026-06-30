@@ -7,7 +7,7 @@ Welcome to Tharron! Here are the latest changes:
 ### Echanter Rework
 - Doppelganger AA swarm pets now correctly taunt and hold aggro. This provides a significant survivability boost to enchanter.
 ### Misc. Changes
-- Fixed quests that were not multiclass aware. This should fix all epic quest stages that previously checked the characters primary quest.
+- Fixed quests that were not multiclass aware. This should fix all epic quest stages that previously checked the characters primary class which caused them to fail to respond.
 
 ## Patch 06-29-26
 ### Necromancer Rework
