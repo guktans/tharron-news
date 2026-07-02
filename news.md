@@ -1,6 +1,14 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 07-02-26
+### Misc. Changes
+- Planar Conduits can now see through invis
+- Bard Epic 'Singing Short Sword' is now equippable in ranged slot.
+- Fixed a bug in how PEQ handles quest turn-ins involving currency that was preventing quite a few quests from working correctly.
+- Rogue Epic NPC Tani N`Mar will now repop once per day and carry the stained parchnent.
+- Many heal over time spell effects and potions were incorrectly marked as permanent and have been restored to their original durations. 
+
 ## Patch 06-30-26
 ### Wizard Rework
 - Chronomancy now also grants a spell rune when the effect ends.
