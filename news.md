@@ -1,6 +1,21 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 07-03-26
+### Velious Progress Update
+- Dragon Necropolis, Velketor's, Icewell Keep (Dain), Kael, Skyshrine, Wuoshi, and Klandicar have all been tuned.
+- Crystal Caverns and Tower of Frozen Shadow have been adjusted. The number of spawns in the zones have been increased substantially.
+- Velktor's difficulty has been increased.
+- The Idol of Rallos Zek which historically had no loot has had a completely custom loot table added to it.
+### Enchanter Rework
+- Eldrith Rune AA reuse time baseline reduced to 3 minutes
+- Deep Sleep now also reduces enemy attack speed slightly in addition to reducing hit chance.
+### Wizard Rework
+- Call of Xuzl cast time reduced.
+### Misc. Changes
+- Expedition Translocation Device has been completed and is available for 300 Glowing shards. This is a 'one-shot' personal teleportation device that allows you to temporarily store a location and return to it a single time with unlimited uses. 2 minute cooldown.
+- Fixed the display issue with rune absorbs. They will now properly report that they are absorbing damage.
+
 ## Patch 07-02-26
 ### Ranger Rework
 - Ranged attacks now benefit from spell based procs.
