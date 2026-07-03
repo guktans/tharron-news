@@ -2,7 +2,18 @@
 Welcome to Tharron! Here are the latest changes:
 
 ## Patch 07-02-26
+### Ranger Rework
+- Ranged attacks now benefit from spell based procs.
+- Ranged attacks now benefit from weapon procs. Yes, that means poisons too!
+### Rogue Rework
+- Uh oh! Somebody was too strong! Backstab damage with two handed weapons has been reduced.
+### Berserker Rework
+- Effectiveness of Shrug it off / Ignore Pain has been slightly reduced.
+### Enchanter Rework
+- Deep Sleep AA will now bypass immunities and land regardless of whether a mob is immune to mez. The AA ranks have been updated to reflect this information and the chance for the effect to land is 20% per rank, reaching 100% at rank 5.
+
 ### Misc. Changes
+- Shadowknight Aura descriptions have been updated to include the additional effect(s) that were previously added.
 - Planar Conduits can now see through invis
 - Bard Epic 'Singing Short Sword' is now equippable in ranged slot.
 - Fixed a bug in how PEQ handles quest turn-ins involving currency that was preventing quite a few quests from working correctly.
