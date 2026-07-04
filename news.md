@@ -1,6 +1,15 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 07-04-26
+### Misc. Changes
+- Bard epic now has a type 7 augment slot to allow it to be used with Improvisation.
+- All player buffs that carry a weapon proc effect have had their range increased to 200 so that ranged attacks may use them.
+- Recourse spell effects that were made permanent in error have had their intended durations restored.
+- Skills that are made available through the Class AA tab (Kick, Bash etc) are no longer susceptible to silence mechanics.
+- Abashi's Rod of Disempowerment has had its casting time reduced.
+- Plane of Hate 1.0 has had a raid specific instance made available via the Planar Conduit.
+
 ## Patch 07-03-26
 ### Velious Progress Update
 - Dragon Necropolis, Velketor's, Icewell Keep (Dain), Kael, Skyshrine, Wuoshi, and Klandicar have all been tuned.
