@@ -1,6 +1,10 @@
 # Tharron Patch Notes
 Welcome to Tharron! Here are the latest changes:
 
+## Patch 07-12-26
+### Misc. Changes
+- Flurry AA should now be available for purchase.
+
 ## Patch 07-04-26
 ### Misc. Changes
 - Bard epic now has a type 7 augment slot to allow it to be used with Improvisation.
